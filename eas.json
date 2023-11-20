@@ -13,6 +13,15 @@
     "production": {}
   },
   "submit": {
-    "production": {}
+    "production": {
+      "ios":{
+        "appleId": "s.hasan@unguarded.com",
+        "ascAppId": "6471621635",
+        "appleTeamId": "TF7AM63UUT"
+      },
+      "android":{
+        "serviceAccountKeyPath" : "./assets/polar-pillar-405717-295bcb11049b.json"
+      }
+    }
   }
 }
